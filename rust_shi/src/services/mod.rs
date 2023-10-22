@@ -1,0 +1,1 @@
+pub mod anthropomorphism_service;
